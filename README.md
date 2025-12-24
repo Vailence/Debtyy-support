@@ -15,14 +15,17 @@ Debtyy respects your privacy.
 - All data is stored **locally on your device**.
 - iCloud sync is **optional** and fully controlled by the user.
 - Data synced with iCloud is stored securely in the user’s Apple iCloud account.
+- The developer does not have access to this data.
 
 ---
 
 ## Terms of Use
 
-- Debtyy is provided **"as is"**, without warranties of any kind.
-- Debtyy is **not a financial advisory service**.
-- Users are responsible for the data they enter into the app.
+- Debtyy offers auto-renewable subscriptions.
+- Payment is charged to the user’s Apple ID account.
+- Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
+- Users can manage or cancel subscriptions in their Apple ID account settings.
+- Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 ---
 
