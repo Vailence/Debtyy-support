@@ -25,7 +25,7 @@ Debtyy respects your privacy.
 - Payment is charged to the user’s Apple ID account.
 - Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
 - Users can manage or cancel subscriptions in their Apple ID account settings.
-- Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+- Terms of Use (EULA): [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 
